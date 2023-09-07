@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
-title 2: Turtles everywhere
+title: "Welcome to my blog"
+date: 2023/09/07
 ---
 
 ## Turtles?
